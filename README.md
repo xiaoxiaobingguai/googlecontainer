@@ -1,2 +1,2 @@
 # googlecontainer
-pull from gcr.io 
+k8s组件供学习使用
